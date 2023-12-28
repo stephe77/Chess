@@ -1,0 +1,11 @@
+C:\Users\Айхан\source\individual projects\Chess\Chess\Logic\bin\Debug\net7.0\Logic.deps.json
+C:\Users\Айхан\source\individual projects\Chess\Chess\Logic\bin\Debug\net7.0\Logic.dll
+C:\Users\Айхан\source\individual projects\Chess\Chess\Logic\bin\Debug\net7.0\Logic.pdb
+C:\Users\Айхан\source\individual projects\Chess\Chess\Logic\obj\Debug\net7.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Айхан\source\individual projects\Chess\Chess\Logic\obj\Debug\net7.0\Logic.AssemblyInfoInputs.cache
+C:\Users\Айхан\source\individual projects\Chess\Chess\Logic\obj\Debug\net7.0\Logic.AssemblyInfo.cs
+C:\Users\Айхан\source\individual projects\Chess\Chess\Logic\obj\Debug\net7.0\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Айхан\source\individual projects\Chess\Chess\Logic\obj\Debug\net7.0\Logic.dll
+C:\Users\Айхан\source\individual projects\Chess\Chess\Logic\obj\Debug\net7.0\refint\Logic.dll
+C:\Users\Айхан\source\individual projects\Chess\Chess\Logic\obj\Debug\net7.0\Logic.pdb
+C:\Users\Айхан\source\individual projects\Chess\Chess\Logic\obj\Debug\net7.0\ref\Logic.dll
