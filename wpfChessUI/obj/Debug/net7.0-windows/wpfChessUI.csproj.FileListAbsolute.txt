@@ -22,3 +22,6 @@ C:\Users\Айхан\source\individual projects\Chess\Chess\wpfChessUI\obj\Debug\
 C:\Users\Айхан\source\individual projects\Chess\Chess\wpfChessUI\obj\Debug\net7.0-windows\wpfChessUI.pdb
 C:\Users\Айхан\source\individual projects\Chess\Chess\wpfChessUI\obj\Debug\net7.0-windows\wpfChessUI.genruntimeconfig.cache
 C:\Users\Айхан\source\individual projects\Chess\Chess\wpfChessUI\obj\Debug\net7.0-windows\ref\wpfChessUI.dll
+C:\Users\Айхан\source\individual projects\Chess\Chess\wpfChessUI\obj\Debug\net7.0-windows\GameOverMenu.g.cs
+C:\Users\Айхан\source\individual projects\Chess\Chess\wpfChessUI\obj\Debug\net7.0-windows\App.baml
+C:\Users\Айхан\source\individual projects\Chess\Chess\wpfChessUI\obj\Debug\net7.0-windows\GameOverMenu.baml
